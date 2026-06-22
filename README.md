@@ -3,7 +3,7 @@ Exploring how Generative AI and Synthetic Data are transforming Test Data Manage
 
 # Modern Test Data Management
 
-## The Role of Generative AI and Synthetic Data in Software Testing
+## The Role of Generative AI and Test Data in Software Testing
 
 Welcome to my research and thought leadership repository on modern Test Data Management (TDM).
 
