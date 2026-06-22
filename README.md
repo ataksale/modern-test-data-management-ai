@@ -24,8 +24,6 @@ to improve software quality, compliance, and delivery speed.
 | Introduction | Completed |
 | Industry Adoption | Planned |
 | GenAI Lifecycle | Planned |
-| Synthetic Data | Planned |
-| Tooling Strategy | Planned |
 | Governance | Planned |
 | Future Trends | Planned |
 
