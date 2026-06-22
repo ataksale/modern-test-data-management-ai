@@ -7,15 +7,7 @@ Exploring how Generative AI and Synthetic Data are transforming Test Data Manage
 
 Welcome to my research and thought leadership repository on modern Test Data Management (TDM).
 
-This repository explores how organizations can leverage:
-
-- Generative AI
-- Synthetic Data
-- Test Data Automation
-- Governance Frameworks
-- DevOps Integration
-
-to improve software quality, compliance, and delivery speed.
+Help to improve software quality, compliance, and delivery speed.
 
 ## Repository Roadmap
 
